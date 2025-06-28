@@ -15,6 +15,6 @@
     }
   ],
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
+  "outputDirectory": "dist/public",
   "installCommand": "npm install --legacy-peer-deps"
 }
